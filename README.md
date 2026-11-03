@@ -1,160 +1,86 @@
-# 👩🏻‍💻 Adriano costa 
+# 👨‍💻 Adriano Costa
 
-**`desenvolvedor front-end`**
+### Desenvolvedor Front-End em formação | Estudante de Cibersegurança
 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
-## 👨‍💻 Minha jornada na tecnologia
+---
 
-Minha paixão pela tecnologia começou ainda na infância, através da curiosidade por computadores e videogames. Sempre tive vontade de entender como as coisas funcionavam, explorar novas possibilidades e descobrir o que existia por trás dos dispositivos que faziam parte do meu dia a dia.
+## 🚀 Sobre mim
 
-Com o tempo, essa curiosidade se transformou em interesse por informática, manutenção de computadores, redes e desenvolvimento de sistemas. Comecei a aprender na prática, realizando configurações de equipamentos, manutenção de notebooks e explorando soluções tecnológicas por conta própria.
+Sou apaixonado por tecnologia, desenvolvimento de sistemas e segurança da informação. Atualmente, estou construindo minha carreira na área de tecnologia, direcionando meus estudos para o **Desenvolvimento Front-End** e a **Cibersegurança**.
 
-Minha experiência profissional na área de telecomunicações também contribuiu muito para minha trajetória. Trabalhando com instalação e reparo de fibra óptica, atendimento técnico e suporte ao cliente, desenvolvi habilidades de resolução de problemas, responsabilidade e trabalho em equipe.
+Minha trajetória começou ainda na infância, com a curiosidade por computadores e videogames. Sempre gostei de entender como os dispositivos funcionavam, explorar configurações e descobrir o que existia por trás da tecnologia.
 
-Foi durante essa caminhada que percebi que queria ir além da infraestrutura e começar a criar minhas próprias soluções através da programação.
+Com o passar dos anos, essa curiosidade se transformou em experiência prática com informática, manutenção de computadores, configuração de equipamentos e redes.
 
-Atualmente, estou direcionando meus estudos para **Desenvolvimento Front-End**, aprendendo HTML, CSS e JavaScript, desenvolvendo projetos práticos e construindo meu portfólio.
+Minha experiência profissional em telecomunicações, trabalhando com instalação e reparo de fibra óptica, também foi fundamental para meu desenvolvimento. Nesse período, adquiri conhecimentos técnicos, experiência com atendimento ao cliente, suporte e resolução de problemas.
 
-Também estou estudando **Cibersegurança**, com foco nos fundamentos de redes, Linux, sistemas operacionais e segurança da informação. Quero compreender não apenas como desenvolver aplicações, mas também como protegê-las e identificar possíveis vulnerabilidades.
+Foi através dessas experiências que percebi que queria ir além da infraestrutura: queria desenvolver soluções, criar projetos e construir minha própria trajetória na programação.
 
-Acredito que a tecnologia está em constante evolução e que nunca devemos parar de aprender. Meu objetivo é transformar minha paixão em uma carreira sólida, conquistar oportunidades na área de desenvolvimento e continuar evoluindo profissionalmente no universo da tecnologia.
+## 📚 Atualmente estudando
 
-🚀 **Estou construindo meu caminho, um projeto e um aprendizado de cada vez.**
+**Desenvolvimento Front-End**
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+- Desenvolvimento de páginas e interfaces web
+- Construção de projetos práticos e portfólio
 
-### 🤖 Linguagens e Tecnologias
+**Cibersegurança e Infraestrutura**
+- Fundamentos de segurança da informação
+- Linux e Ubuntu Server
+- Kali Linux
+- Redes de computadores
+- Protocolos TCP/IP
+- Fundamentos de segurança de sistemas e redes
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 🎯 Meus objetivos
 
-<br/>
-<br/>
+- Conquistar minha primeira oportunidade profissional como Desenvolvedor Front-End.
+- Desenvolver projetos reais e evoluir minhas habilidades técnicas.
+- Aprofundar meus conhecimentos em Linux, redes e segurança da informação.
+- Evoluir futuramente na área de Cibersegurança.
+- Construir uma carreira sólida no universo da tecnologia.
 
-### 📊 Estatísticas
+## 🛠️ Tecnologias e ferramentas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="left">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code"/>
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📊 GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Adriano-git&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Adriano-git&theme=tokyonight&layout=compact&langs_count=8" alt="Linguagens mais utilizadas"/>
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://github.com/Dev-Adriano-git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"A tecnologia está em constante evolução, e eu também. Um projeto, um desafio e um aprendizado de cada vez."</i>
 </p>
