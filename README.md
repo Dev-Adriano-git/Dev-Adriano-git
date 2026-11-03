@@ -62,14 +62,6 @@ Foi através dessas experiências que percebi que queria ir além da infraestrut
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code"/>
 </p>
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Adriano-git&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Adriano-git&theme=tokyonight&layout=compact&langs_count=8" alt="Linguagens mais utilizadas"/>
-</p>
-
----
 
 ## 📫 Vamos nos conectar?
 
